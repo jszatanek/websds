@@ -1,1 +1,1 @@
-mvn install:install-file -Dfile=/cos.jar -DgroupId=com.oreilly.servlet -DartifactId=cos -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=../../app-root/repo/cos-1.0.jar -DgroupId=com.oreilly.servlet -DartifactId=cos -Dversion=1.0 -Dpackaging=jar
