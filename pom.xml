@@ -60,7 +60,7 @@
 
 <dependency>
       <groupId>com.oreilly.servlet</groupId>
-      <artifactId>cor</artifactId>
+      <artifactId>cos</artifactId>
       <version>1.0</version>
  </dependency>
 	</dependencies>
