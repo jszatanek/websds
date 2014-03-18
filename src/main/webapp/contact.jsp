@@ -21,7 +21,7 @@
 
      mail.makeConnection();
 //TODO 
-    // mail.sendMail(mail.nvl(request.getParameter("pSubject"),""),wMessage,mail.nvl(request.getParameter("pEmail"),""));
+     mail.sendMail(mail.nvl(request.getParameter("pSubject"),""),wMessage,mail.nvl(request.getParameter("pEmail"),""));
 
      mail.closeConnection();
      messageSent = true;
