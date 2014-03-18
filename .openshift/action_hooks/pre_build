@@ -1,1 +1,4 @@
 mvn install:install-file -Dfile=../../app-root/repo/cos-1.0.jar -DgroupId=com.oreilly.servlet -DartifactId=cos -Dversion=1.0 -Dpackaging=jar
+
+
+/var/lib/openshift/532866355973ca2e8400069b/app-root/runtime/repo/src/main/webapp/web.xml
