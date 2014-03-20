@@ -21,7 +21,7 @@
   <!--appplication variables -->
   <env-entry>
       <env-entry-name>MAILADDRESS</env-entry-name>
-    <env-entry-value>sds@volvo.com</env-entry-value>
+    <env-entry-value>joel.szatanek@volvo.com</env-entry-value>
     <env-entry-type>java.lang.String</env-entry-type>
   </env-entry>
 
@@ -47,13 +47,13 @@
   <!--mail settings-->
   <env-entry>
     <env-entry-name>mailserver</env-entry-name>
-    <env-entry-value>mailgot.it.volvo.com</env-entry-value>
+    <env-entry-value>localhost</env-entry-value>
     <env-entry-type>java.lang.String</env-entry-type>
   </env-entry>  
 
   <env-entry>
     <env-entry-name>mailToAddress</env-entry-name>
-    <env-entry-value>sds@volvo.com</env-entry-value>
+    <env-entry-value>joel.szatanek@volvo.com</env-entry-value>
     <env-entry-type>java.lang.String</env-entry-type>
   </env-entry>  
 
