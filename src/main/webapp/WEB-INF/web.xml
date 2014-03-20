@@ -47,7 +47,7 @@
   <!--mail settings-->
   <env-entry>
     <env-entry-name>mailserver</env-entry-name>
-    <env-entry-value>localhost</env-entry-value>
+    <env-entry-value>mailgot.it.volvo.com</env-entry-value>
     <env-entry-type>java.lang.String</env-entry-type>
   </env-entry>  
 
